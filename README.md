@@ -10,6 +10,7 @@ Les **spécifications techniques** d'un cahier des charges sont une documentatio
 
 Les **spécifications fonctionnelles** sont une section du cahier des charges ou un document à part entière qui spécifie, décrit, précise les fonctionnalités du site, de l'application ou du logiciel en question.
 
+
 Dans un projet digital avec une gestion Agile, on retrouve:
 
 ## User story
